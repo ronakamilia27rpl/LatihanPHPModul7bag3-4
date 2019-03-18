@@ -12,4 +12,4 @@ RONA KAMILIA 34 XR4
 ![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul7bag3-4/blob/master/tampilDataDosen.png)
 
 
-Saya mempelajari membuat database
+Saya mempelajari membuat database dmysql di PHP, mengerti code yang di pakai untuk connect ke database, mengubah isi, membuat form, login dan logout.
